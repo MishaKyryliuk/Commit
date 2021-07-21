@@ -2,16 +2,18 @@
 class Class
 {
 	//
+	123456
+		//
 };
 
 class Class
 {
 	//
-	13123131
 	//
 };
 class Class
 {
 	//
+	258369
 	//
 };
