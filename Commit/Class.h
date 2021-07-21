@@ -7,4 +7,10 @@ class Class
 class Class
 {
 	//
+	//
+};
+class Class
+{
+	//
+	//
 };
